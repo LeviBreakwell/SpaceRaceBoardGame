@@ -1,0 +1,18 @@
+C:/Sandpit/Student Project/Space Race/Game Logic Class/bin/Debug/Game Logic Class.dll
+C:/Sandpit/Student Project/Space Race/Game Logic Class/bin/Debug/Game Logic Class.pdb
+C:/Sandpit/Student Project/Space Race/Game Logic Class/obj/Debug/Game Logic Class.csprojAssemblyReference.cache
+C:/Sandpit/Student Project/Space Race/Game Logic Class/obj/Debug/Game Logic Class.csproj.CoreCompileInputs.cache
+C:/Sandpit/Student Project/Space Race/Game Logic Class/obj/Debug/Game Logic Class.dll
+C:/Sandpit/Student Project/Space Race/Game Logic Class/obj/Debug/Game Logic Class.pdb
+C:/Sandpit/Student Project/Space Race/Game Logic Class/bin/Debug/Object Classes.dll
+C:/Sandpit/Student Project/Space Race/Game Logic Class/bin/Debug/Object Classes.pdb
+C:/Sandpit/Student Project/Space Race/Game Logic Class/obj/Debug/Game Logic Class.csproj.CopyComplete
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/bin/Debug/Game Logic Class.dll
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/bin/Debug/Game Logic Class.pdb
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/bin/Debug/Object Classes.dll
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/bin/Debug/Object Classes.pdb
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/obj/Debug/Game Logic Class.csprojAssemblyReference.cache
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/obj/Debug/Game Logic Class.csproj.CoreCompileInputs.cache
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/obj/Debug/Game Logic Class.csproj.CopyComplete
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/obj/Debug/Game Logic Class.dll
+/Users/Foxy/Desktop/Uni/Queensland UniversityofTechnology/Sem2/Programming Principles/Assignment1/Space Race/Game Logic Class/obj/Debug/Game Logic Class.pdb
